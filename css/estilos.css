@@ -1,0 +1,45 @@
+body{
+    background-color: #d39717;
+}
+nav{
+    overflow: hidden;
+}
+nav ul{
+    list-style-type: none;
+    float: left;
+    padding: 0px;
+}
+nav ul li{
+    float: left;
+    padding: 3px 10px;
+    margin: 2px;
+    background-color: #f3f3e2;
+    border-radius: 5px;
+}
+nav ul li:hover{
+    background-color: rgb(48, 36, 19);
+}
+nav ul li a{
+    text-decoration: none;
+}
+#footer{
+    padding: 10px;
+    text-align: center;
+    clear: both;
+    
+}
+h1{
+    text-align: center;
+}
+.activo{
+    background-color: rgb(37, 35, 33);
+}
+h2{
+    text-align: center;
+}
+p{
+    margin: 5px;
+    padding: 5px;
+}
+
+
